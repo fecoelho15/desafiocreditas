@@ -1,0 +1,390 @@
+﻿Cliente_ID;Nome;Idade;Obra_Favorita
+61715970;Greg Lestrade;40;Sherlock
+241623554;Marge Simpson;;The Simpsons
+271006026;Irene Adler;30;Sherlock
+281847084;Jack Sparrow;35;Pirates of the Caribbean
+290305420;Brook;;One Piece
+296723819;Milhouse Van Houten;10;The Simpsons
+323919542;Hagrid;63;Harry Potter
+325489429;Goldfinger;50;James Bond
+326361577;Jesse;25;The Fast and the Furious
+335331807;James Bond;;James Bond
+339892978;Poison Ivy;30;Batman
+349807378;James Rhodes;48;Marvel
+355849921;Philip, Duke of Edinburgh;32;The Crown
+367019853;Aidan Keller;;The Ring
+367977336;Dennis Nedry;30;Jurassic Park
+368132627;Bené;18;City of God
+380693920;Sirius Black;33;Harry Potter
+385014475;Samara Morgan;7;The Ring
+387249893;Catelyn Stark;38;Game of Thrones
+390004180;Goldie Wilson;;Back to the Future
+393615613;Edna Strickland;35;Back to the Future
+395456707;Mané Galinha;18;City of God
+400978601;Buzz Lightyear;;Toy Story
+403945890;Vogel;60;Dexter
+407364890;Lance;30;The Fast and the Furious
+408593041;Aliens;10;Toy Story
+409811593;Master Blaster;20;Mad Max
+412461044;Daryl Dixon;35;The Walking Dead
+413500273;Angélica;;City of God
+416761821;Tuco Salamanca;30;Breaking Bad
+416765713;Pippin Took;28;The Lord of the Rings
+419892080;Nux;30;Mad Max
+440121666;River Song;29;Doctor Who
+441648690;Trinity;30;The Matrix
+442778427;Haymitch Abernathy;26;The Hunger Games
+443761058;Cypher;30;The Matrix
+448163451;Roman Pearce;;The Fast and the Furious
+454739510;Two-Face;30;Batman
+456392632;Obi-Wan Kenobi;57;Star Wars
+460253771;The Humungus;40;Mad Max
+460780714;Walter Donovan;;Indiana Jones
+461334357;Lorraine Baines-McFly;35;Back to the Future
+463983156;Mola Ram;50;Indiana Jones
+467246787;Galadriel;;The Lord of the Rings
+470933858;Q;50;James Bond
+471288966;Dozer;40;The Matrix
+471869326;Marie Schrader;;Breaking Bad
+474375212;Daenerys Targaryen;16;Game of Thrones
+474453731;Pam Beesly;25;The Office (US)
+476236356;Harrison Morgan;1;Dexter
+477227057;George McFly;17;Back to the Future
+477542957;Bootstrap Bill Turner;45;Pirates of the Caribbean
+482500301;Oscar Martinez;35;The Office (US)
+482737505;Felix Leiter;45;James Bond
+488624480;Ron Weasley;11;Harry Potter
+490090760;Aaron;35;The Walking Dead
+492674887;Bart Simpson;10;The Simpsons
+493015439;Ray Arnold;;Jurassic Park
+494395506;Ned Flanders;40;The Simpsons
+495003352;Ralph Wiggum;10;The Simpsons
+499081542;Skyler White;;Breaking Bad
+500591539;Chandler Bing;25;Friends
+501001096;Janice Hosenstein;25;Friends
+502260544;Monkey D.Garp;78;One Piece
+503623112;Biff Tannen;17;Back to the Future
+505611962;Leia Organa;19;Star Wars
+506405545;Jabba the Hutt;;Star Wars
+507576396;Claire Littleton;27;Lost
+508781007;Suki;25;The Fast and the Furious
+511286935;Severus Snape;31;Harry Potter
+513647573;Rex;10;Toy Story
+514907810;Anne, Princess Royal;11;The Crown
+515950530;Kay Adams;25;The Godfather
+516664511;Norrington;35;Pirates of the Caribbean
+518053011;Clint Barton;;Marvel
+518872821;Anthony Eden;55;The Crown
+519023728;Rocky Balboa;30;Rocky
+519888774;Debra Morgan;26;Dexter
+521299864;Rachel Green;25;Friends
+521484087;John Locke;;Lost
+522014140;Finnick Odair;18;The Hunger Games
+523197916;Desmond Hume;37;Lost
+523313469;Miss Moneypenny;30;James Bond
+523446795;Dominic Toretto;35;The Fast and the Furious
+523960498;Marvin Berry;;Back to the Future
+523980941;Lucius Malfoy;38;Harry Potter
+525940541;Phoebe Buffay;25;Friends
+526065375;Morpheus;50;The Matrix
+527826866;Cinna;25;The Hunger Games
+528178999;R2-D2;;Star Wars
+529315980;Marshall Eriksen;27;How I Met Your Mother
+531839060;Rue;;The Hunger Games
+535371044;Plutarch Heavensbee;50;The Hunger Games
+535819571;Jack Geller;50;Friends
+536226383;M;55;James Bond
+536770594;Seneca Crane;50;The Hunger Games
+537338967;Joffrey Baratheon;12;Game of Thrones
+539317218;The Gyro Captain;;Mad Max
+539394180;Marty;30;Pirates of the Caribbean
+541512100;Maggie Greene;25;The Walking Dead
+542064409;C-3PO;112;Star Wars
+542858086;Stephen Strange;42;Marvel
+543040122;Anna Morgan;17;The Ring
+543632944;Holly White;1;Breaking Bad
+544163942;Han Solo;;Star Wars
+544517840;Hamm;20;Toy Story
+544906928;Pussy Galore;25;James Bond
+549398168;Todd Flanders;8;The Simpsons
+549881823;Jack Shephard;37;Lost
+551290249;Letty Ortiz;25;The Fast and the Furious
+551298596;Jin-Soo Kwon;32;Lost
+551989541;Katniss Everdeen;;The Hunger Games
+552012033;Robb Stark;15;Game of Thrones
+552330528;Arya Stark;11;Game of Thrones
+552393074;Kate Austen;27;Lost
+552411463;Carol Danvers;38;Marvel
+553302081;Aragorn;87;The Lord of the Rings
+554577119;Indiana Jones;;Indiana Jones
+555304283;Walter White;50;Breaking Bad
+556747719;Ken;10;Toy Story
+556967641;Harry Potter;11;Harry Potter
+558119458;Barney Stinson;27;How I Met Your Mother
+558225141;Robert Baratheon;40;Game of Thrones
+561431128;Bo Peep;10;Toy Story
+562631163;Ian Malcolm;;Jurassic Park
+562896848;Winston Churchill;70;The Crown
+563089923;"James ""Sawyer"" Ford";32;Lost
+564799545;Han Lue;30;The Fast and the Furious
+565528719;Masuka;45;Dexter
+565654046;Peter Clemenza;50;The Godfather
+566146679;Natasha Romanoff;32;Marvel
+566888554;Michonne;35;The Walking Dead
+567031543;Woody;;Toy Story
+567217618;Sally Donovan;30;Sherlock
+567289579;Charlie Pace;27;Lost
+568449307;Tony Tony Chopper;17;One Piece
+568830288;Hannah McKay;;Dexter
+569030965;Etch A Sketch;10;Toy Story
+569130451;Paulie Pennino;50;Rocky
+569791617;Jennifer Parker;17;Back to the Future
+571665282;The Doctor;;Doctor Who
+572667720;Vince;30;The Fast and the Furious
+572687340;Rita Bennett;;Dexter
+573354992;Mia Toretto;25;The Fast and the Furious
+573543477;Mary Morstan;27;Sherlock
+573633100;Nikita Khrushchev;60;The Crown
+574666306;Mouse;30;The Matrix
+575655851;Michael Dawson;32;Lost
+575726751;Sanji;19;One Piece
+577602880;Tim Murphy;;Jurassic Park
+577738817;Catwoman;25;Batman
+577791639;Margaret Thatcher;47;The Crown
+578012235;Moe Greene;50;The Godfather
+578479164;John Hammond;65;Jurassic Park
+578649254;Harvey Dent;30;Batman
+580815064;Peter Pettigrew;;Harry Potter
+581003556;Marty McFly;17;Back to the Future
+581279987;Frank Pentangeli;50;The Godfather
+582380600;Sherlock Holmes;27;Sherlock
+582467087;Hector Salamanca;65;Breaking Bad
+582608215;Blofeld;60;James Bond
+583192000;Alan Grant;42;Jurassic Park
+584553907;Thanos;;Marvel
+584876816;Sauron;;The Lord of the Rings
+585027010;Rose Tyler;19;Doctor Who
+586788898;Barbie;10;Toy Story
+586935062;Jim Gordon;40;Batman
+587458835;Clara Oswald;20;Doctor Who
+587709036;Lorraine Baines;;Back to the Future
+588222604;"Salvatore ""Sal"" Tessio";50;The Godfather
+588790431;Voldemort;71;Harry Potter
+589239187;Griff Tannen;17;Back to the Future
+589256357;Robert Muldoon;45;Jurassic Park
+589400126;Gus Fring;45;Breaking Bad
+589997666;Graham O'Brien;40;Doctor Who
+590632255;Davy Jones;;Pirates of the Caribbean
+590949223;Mr.Potato Head;20;Toy Story
+592262174;Margaret, Countess of Snowdon;21;The Crown
+592709430;Selina Kyle;25;Batman
+592914194;Cabeleira;18;City of God
+593434714;Dwight Schrute;30;The Office (US)
+593499083;The Feral Kid;10;Mad Max
+593806493;Lando Calrissian;32;Star Wars
+594054457;Nico Robin;;One Piece
+594316785;George McFly Sr.;35;Back to the Future
+595021979;Rick Grimes;40;The Walking Dead
+595423371;Walter White Jr.;15;Breaking Bad
+595431681;Gisele Yashar;25;The Fast and the Furious
+595456542;Creed Bratton;60;The Office (US)
+595489609;Carol Peletier;40;The Walking Dead
+595504996;Peeta Mellark;16;The Hunger Games
+595508775;Elizabeth Swann;;Pirates of the Caribbean
+595563988;Gandalf;;The Lord of the Rings
+595577718;Moneypenny;30;James Bond
+595605164;Gimli;;The Lord of the Rings
+595633519;Dr.No;45;James Bond
+595637182;Cersei Lannister;32;Game of Thrones
+595658608;Monica Geller;25;Friends
+595661718;Thor;;Marvel
+595682347;Tom Hagen;35;The Godfather
+595745909;Rod Flanders;10;The Simpsons
+595748836;Elsa Schneider;30;Indiana Jones
+595775986;President Snow;60;The Hunger Games
+595835453;Adrian Balboa;23;Rocky
+595837520;Abraham Ford;40;The Walking Dead
+595851655;Ra's al Ghul;;Batman
+595898452;Tank;40;The Matrix
+595964104;Glenn Rhee;30;The Walking Dead
+595980385;Carl Grimes;15;The Walking Dead
+596033780;Robin Scherbatsky;27;How I Met Your Mother
+596034858;Steve Rogers;106;Marvel
+596073300;Kevin Malone;35;The Office (US)
+596103271;Donna Noble;27;Doctor Who
+596145368;Tej Parker;30;The Fast and the Furious
+596195662;Bruce Wayne;;Batman
+596209461;Luke Skywalker;23;Star Wars
+596211130;Frodo Baggins;19;The Lord of the Rings
+596246768;Jessie;10;Toy Story
+596251631;Charles, Prince of Wales;14;The Crown
+596286718;The Joker;30;Batman
+596354392;Bruce Banner;;Marvel
+596364926;Bran Stark;9;Game of Thrones
+596370928;Jane Margolis;25;Breaking Bad
+596372723;Ross Geller;25;Friends
+596431354;Toecutter;35;Mad Max
+596455249;Saul Goodman;45;Breaking Bad
+596474864;Palpatine;;Star Wars
+596475350;Captain Jack Harkness;;Doctor Who
+596485908;Vito Corleone;60;The Godfather
+596511927;Kelly Kapoor;25;The Office (US)
+596516771;Sansa Stark;13;Game of Thrones
+596531321;Peter Ludlow;45;Jurassic Park
+596534976;Jesse Pinkman;;Breaking Bad
+596624057;Hermione Granger;11;Harry Potter
+596658179;Agent Smith;30;The Matrix
+596663613;Boba Fett;36;Star Wars
+596664058;Jaime Lannister;30;Game of Thrones
+596665958;Jon Snow;17;Game of Thrones
+596667638;Joey Tribbiani;;Friends
+596677993;Jim Halpert;27;The Office (US)
+596684555;Doc Brown;35;Back to the Future
+596703931;Lex Murphy;11;Jurassic Park
+596713553;Yoda;;Star Wars
+596737426;Al Neri;;The Godfather
+596743347;Lily Aldrin;27;How I Met Your Mother
+596759224;Phyllis Vance;40;The Office (US)
+596761517;Michael Scott;40;The Office (US)
+596781399;Nami;18;One Piece
+596785945;Denethor;60;The Lord of the Rings
+596787212;Rosita Espinosa;25;The Walking Dead
+596800561;Pintel;30;Pirates of the Caribbean
+596801493;Noah Clay;12;The Ring
+596815207;Seraph;30;The Matrix
+596816775;Minerva McGonagall;46;Harry Potter
+596825271;Apollo Creed;35;Rocky
+596826947;The Riddler;30;Batman
+596849084;Gale Hawthorne;17;The Hunger Games
+596871310;Samuel Levine;12;Jurassic Park
+596875619;Quinn;30;Dexter
+596895904;Willie Scott;25;Indiana Jones
+596911440;Homer Simpson;38;The Simpsons
+596919180;Maggie Simpson;1;The Simpsons
+596925586;Pietro Maximoff;23;Marvel
+596938912;Brian O'Conner;30;The Fast and the Furious
+596995085;Wez;25;Mad Max
+597010887;Darth Vader;41;Star Wars
+597040052;Harry Morgan;50;Dexter
+597040440;Marcus Brody;55;Indiana Jones
+597064562;Harold Macmillan;60;The Crown
+597071160;Judy Geller;50;Friends
+597088361;Richard Burke;40;Friends
+597100177;Hank Schrader;42;Breaking Bad
+597113299;John Watson;27;Sherlock
+597144867;Camilla, Duchess of Cornwall;33;The Crown
+597148997;Trafalgar Law;26;One Piece
+597165798;Lumen;25;Dexter
+597175869;Legolas;;The Lord of the Rings
+597184514;Belloq;40;Indiana Jones
+597185672;Douglas J.Needles;17;Back to the Future
+597189123;Marion Ravenwood;30;Indiana Jones
+597190605;Sallah;45;Indiana Jones
+597198159;Michael Corleone;25;The Godfather
+597205781;Sun-Hwa Kwon;27;Lost
+597234375;Rory Williams;26;Doctor Who
+597238030;"Hugo ""Hurley"" Reyes";32;Lost
+597257213;Doakes;45;Dexter
+597257230;Bane;30;Batman
+597258425;Henry Wu;45;Jurassic Park
+597263236;Mike Ehrmantraut;55;Breaking Bad
+597280325;Lestrade;40;Sherlock
+597294950;Angela Martin;30;The Office (US)
+597301916;Dr.Emma Hollis;35;The Ring
+597308022;Anderson;30;Sherlock
+597321392;Merry Brandybuck;33;The Lord of the Rings
+597338832;Jackie Kennedy;31;The Crown
+597345864;Monkey D.Dragon;50;One Piece
+597394121;Roronoa Zoro;19;One Piece
+597397817;Ryan Howard;25;The Office (US)
+597406430;Joshamee Gibbs;50;Pirates of the Caribbean
+597441975;Ragetti;30;Pirates of the Caribbean
+597457166;Sonny Corleone;30;The Godfather
+597458812;The Merovingian;50;The Matrix
+597461507;Johanna Mason;18;The Hunger Games
+597500933;Rachel Keller;23;The Ring
+597527919;Usopp;17;One Piece
+597530295;Ellie Sattler;38;Jurassic Park
+597545757;Short Round;12;Indiana Jones
+597575619;Switch;30;The Matrix
+597584108;Bellatrix Lestrange;22;Harry Potter
+597606764;Anakin Skywalker;22;Star Wars
+597618608;Wanda Maximoff;23;Marvel
+597619741;Primrose Everdeen;12;The Hunger Games
+597638767;Jinbe;46;One Piece
+597665314;Tony Stark;48;Marvel
+597673095;Nelson Muntz;10;The Simpsons
+597682140;Boromir;40;The Lord of the Rings
+597703565;Samwise Gamgee;38;The Lord of the Rings
+597715241;Alfred Pennyworth;60;Batman
+597717159;Molly Hooper;27;Sherlock
+597753790;Elrond;;The Lord of the Rings
+597795437;Furiosa;35;Mad Max
+597852913;John F.Kennedy;43;The Crown
+597855672;Monkey D.Luffy;17;One Piece
+597862315;Jaws;30;James Bond
+597873434;Tara Chambler;25;The Walking Dead
+597884536;Jim Moriarty;30;Sherlock
+597908642;Sayid Jarrah;32;Lost
+597941158;Neo;30;The Matrix
+597964059;Johnny Tran;30;The Fast and the Furious
+597968328;Bill Potts;24;Doctor Who
+598010346;Baron Samedi;50;James Bond
+598014854;Tyrion Lannister;30;Game of Thrones
+598022375;Cotton;30;Pirates of the Caribbean
+598041477;Donald Gennaro;45;Jurassic Park
+598077388;Franky;36;One Piece
+598107133;Tia Dalma;;Pirates of the Caribbean
+598112960;Sasha Williams;25;The Walking Dead
+598128352;Albus Dumbledore;115;Harry Potter
+598134931;Apoc;30;The Matrix
+598142782;Susan Bunch;30;Friends
+598170294;Nardole;;Doctor Who
+598226018;Gunther;30;Friends
+598238329;Talia al Ghul;25;Batman
+598241998;Aaron Littleton;1;Lost
+598276641;T'Challa;27;Marvel
+598301880;Toby Flenderson;40;The Office (US)
+598316738;LaGuerta;40;Dexter
+598320786;Stanley Hudson;45;The Office (US)
+598343906;Martha Jones;23;Doctor Who
+598378352;Zé Pequeno;18;City of God
+598393913;Henry Jones Sr.;65;Indiana Jones
+598403482;Nightrider;30;Mad Max
+598405159;Connie Corleone Rizzi;27;The Godfather
+598411064;Carol Willick;30;Friends
+598412013;Amy Pond;19;Doctor Who
+598428532;Chewbacca;;Star Wars
+598436331;Eugene Porter;35;The Walking Dead
+598463418;Slinky Dog;20;Toy Story
+598466618;Luca Brasi;40;The Godfather
+598509522;Lisa Simpson;8;The Simpsons
+598531885;Aunty Entity;40;Mad Max
+598551480;Goose;25;Mad Max
+598621735;Ted Mosby;27;How I Met Your Mother
+598662410;Mrs.Potato Head;20;Toy Story
+598675537;Marreco;18;City of God
+598714072;"Tony ""Duke"" Evers";50;Rocky
+598727541;Missy;;Doctor Who
+598729794;Rubeus Hagrid;63;Harry Potter
+598749340;Mycroft Holmes;40;Sherlock
+598764428;Angel Batista;35;Dexter
+598766284;Max Rockatansky;30;Mad Max
+598811723;Oddjob;30;James Bond
+598817714;Ned Stark;35;Game of Thrones
+598820580;Dexter Morgan;30;Dexter
+598829977;Dr.Kananga;50;James Bond
+598831374;Mickey Goldmill;55;Rocky
+598834621;Mrs.Hudson;60;Sherlock
+598846218;Abraham Simpson;83;The Simpsons
+598865846;Fredo Corleone;28;The Godfather
+598888965;Dr.Richard Morgan;40;The Ring
+598924539;Effie Trinket;40;The Hunger Games
+598927785;Remus Lupin;31;Harry Potter
+598943392;Barbossa;38;Pirates of the Caribbean
+598976635;Will Turner;20;Pirates of the Caribbean
+598990296;Lao Che;60;Indiana Jones
+598994626;Saruman;;The Lord of the Rings
+599027517;Peter Parker;16;Marvel
+599028763;Elizabeth II;25;The Crown
+599031499;Maude Flanders;40;The Simpsons
